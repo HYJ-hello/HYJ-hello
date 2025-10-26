@@ -1,16 +1,30 @@
-## Hi there 👋
+# HYJ-hello's Project Space
 
-<!--
-**HYJ-hello/HYJ-hello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人简介
 
-Here are some ideas to get you started:
+大家好！我是HYJ-hello，一名热爱编程的学生，目前正在学习C++和Python。  
+我的座右铭是：**相信是一种力量**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技能标签
+
+- C++（基础）
+- Python（基础）
+## 项目目标
+
+我希望通过不断练习和学习，精通C++和Python，开发出实用且有趣的开源项目，让更多人受益和喜欢。
+
+## 近期计划
+
+- 制作命令行小工具
+- 开发数据可视化脚本
+- 实现小游戏与算法可视化
+- 持续完善和优化现有项目
+
+## 联系我
+
+- GitHub: [HYJ-hello](https://github.com/HYJ-hello)
+- 欢迎交流、提建议、一起学习进步！
+
+---
+
+感谢访问我的项目空间，欢迎Star和提出建议！
